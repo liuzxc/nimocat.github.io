@@ -3,10 +3,10 @@
         height: 600px;
         h2 {
             padding-top: 260px;
-            font-size: 42px;
+            font-size: 5em;
         }
         h3 {
-            font-size: 22px;
+            font-size: 3em;
         }
     }
 }
@@ -154,7 +154,6 @@
     .g-footer {
         padding: 30px 0;
     }
-
 }
 
 @media screen and (max-width: 500px) {
@@ -277,17 +276,18 @@
 @media screen and (max-width: 376px) { 
     .home-banner {
         h2 {
-            font-size: 26px;
+            font-size: 3.2em;
             line-height: 38px;
+            padding-bottom: 2.5%
         }
         h3 {
             margin-top: 4px;
-            font-size: 16px;
+            font-size: 2.2em;
         }
         .header-img {
             width: 695px;
             left: -100px;
+            height: 100%;
         }
     }
-
 }
