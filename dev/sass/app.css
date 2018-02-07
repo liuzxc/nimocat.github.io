@@ -1002,15 +1002,17 @@ a {
     height: 400px; }
     .home-banner h2 {
       padding-top: 180px;
-      font-size: 28px;
-      line-height: 48px; }
+      font-size: 3.3em;
+      line-height: 48px;
+      padding-bottom: 2.5%; }
     .home-banner h3 {
       margin-top: 2px;
-      font-size: 18px;
+      font-size: 2.3em;
       letter-spacing: 6px; }
     .home-banner .header-img {
       width: 695px;
-      left: -100px; }
+      left: -100px;
+      height: 100%; }
   .home-content {
     margin-bottom: 32px; }
   .article-list .article-item {
