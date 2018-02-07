@@ -2,13 +2,14 @@
 layout: default
 home-title: H2O Theme For Jekyll
 description: 或许是最漂亮的Jekyll主题
+header-img: assets/img/hero.jpg
 ---
 
 {% include header.html %}
 
 <div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2>{{ page.home-title }}</h2>
-    <h3>{{ page.description }}</h3>
+    <h2 style="font-family: Writing;font-size:12em">天一生水</h2>
+    <h3 style="font-family: Writing;font-size:40px">地六成之</h3>
     {% if page.header-img %}
     <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
     {% endif %}

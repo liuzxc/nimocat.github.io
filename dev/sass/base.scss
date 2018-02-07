@@ -7,6 +7,35 @@
     font-family: "Merriweather-Light";
     src: url("../fonts/Merriweather-Light.ttf");
 }
+@font-face {
+    font-family: "Writing";
+    src: url("../fonts/writing.ttf");
+}
+@font-face {
+	font-family: 'localsans-win-light';
+	src: local('Microsoft YaHei Light'), local('Microsoft JhengHei');
+}
+@font-face {
+	font-family: 'localsans-win';
+	src: local('Microsoft YaHei');
+}
+@font-face {
+	font-family: 'localsans-win-bold';
+	font-weight: bold;
+	src: local('Microsoft YaHei Bold'), local('Microsoft YaHei');
+}
+@font-face {
+	font-family: 'localsans-mac-light';
+	src: local('PingFangSC-Light'), local('HiraginoSansGB-W3');
+}
+@font-face {
+	font-family: 'localsans-mac';
+	src: local('PingFangSC-Regular'), local('HiraginoSansGB-W3');
+}
+@font-face {
+	font-family: 'localsans-mac-bold';
+	src: local('PingFangSC-Semibold'), local('HiraginoSansGB-W6');
+}
 
 /*** Base ***/
 html, body {
@@ -21,7 +50,7 @@ time, mark, audio, video, iframe, main, header, footer {
     outline: 0 none;
 }
 body {
-    font-family: $fonts;
+    font-family: 'localsans-mac', 'localsans-win', sans-serif;
     color: $color-f-secondary;
     -webkit-font-smoothing: antialiased;
     background-color: $color-bg;
