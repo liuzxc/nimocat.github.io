@@ -20,13 +20,13 @@ footer:
 author: '艾天一'
 nickname: '尼莫猫'
 bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/header.jpg'
+avatar: './assets/img/header.jpg'
 
 # Search
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments
 disqus: false
