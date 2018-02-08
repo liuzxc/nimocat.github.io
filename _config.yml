@@ -39,8 +39,7 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '大爷~赏俩钱？'
-  wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
-  alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
+  wechatpay: 'https://github.com/nimocat/nimocat.github.io/blob/master/assets/icons/WechatIMG62.jpeg?raw=true'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
