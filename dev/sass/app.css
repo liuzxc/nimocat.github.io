@@ -6,14 +6,6 @@
 /*** Mixins ***/
 /** Font **/
 @font-face {
-  font-family: "Merriweather";
-  src: url("../fonts/Merriweather-Black.ttf"); }
-
-@font-face {
-  font-family: "Merriweather-Light";
-  src: url("../fonts/Merriweather-Light.ttf"); }
-
-@font-face {
   font-family: 'Writing';
   src: url("../fonts/writing.ttf"); }
 
