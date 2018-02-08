@@ -17,7 +17,6 @@ $(document).ready(function(){
     $('.g-nav').on('click', function(e){
         e.stopPropagation();
     });
-    
     /*
     *  Header Bar
     */

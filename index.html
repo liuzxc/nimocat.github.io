@@ -6,9 +6,9 @@ header-img: assets/img/hero.jpg
 ---
 
 {% include header.html %}
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2>天一生水</h2>
-    <h3>地六成之</h3>
+<div class="g-banner home-banner" style="background-color:#04333b" data-theme="{{ site.theme-color }}">
+    <h2 class="ty">天一生水</h2>
+    <h3 class="dl">地六成之</h3>
     {% if page.header-img %}
     <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
     {% endif %}
