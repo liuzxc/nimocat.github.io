@@ -11,6 +11,10 @@
   src: url("../fonts/writing.ttf"); }
 
 @font-face {
+  font-family: 'HeaderEng';
+  src: url("../fonts/LEVIBRUSH.TTF"); }
+
+@font-face {
   font-family: 'localsans-win-light';
   src: local("Microsoft YaHei Light"), local("Microsoft JhengHei"); }
 
@@ -764,7 +768,8 @@ a {
 
 .tags-banner {
   height: 300px;
-  text-align: center; }
+  text-align: center;
+  background-position: center; }
   .tags-banner h2 {
     font-size: 36px;
     line-height: 300px; }
