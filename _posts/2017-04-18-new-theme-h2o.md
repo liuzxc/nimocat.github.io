@@ -1,26 +1,24 @@
 ---
 layout: post
-title: 'H2O theme for Jekyll'
-subtitle: '或许是最漂亮的Jekyll主题'
+title: 'Ink theme for Jekyll'
+subtitle: '墨水——Jekyll Theme'
 date: 2017-04-18
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/first-page.png'
 tags: jekyll 前端开发 设计
 ---
-
-正如我在[微博](http://weibo.com/1374146504/profile?topnav=1&wvr=6)上所说的，使用[Jekyll](http://jekyll.com.cn/)半年以来一直没有令我满意的主题模板，所以开始计划自己写一套好看又好用的主题模板。设计之初就明确了极简主义，风格采用扁平化了，通过卡片式设计来进行区块分明的布局，参考了Medium的ui样式和知乎专栏的视觉风格。
+# 墨水——H2O主题
+由[nimocat](http://github.com/nimocat)修改的H2O主题的分支
 
 ## H2O——水墨风版本
 
-[源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
+[原主题源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
 
-![](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-realhome.jpg)
+![](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/screen.png)
 
 新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。
 
-使用Sketch完成H2O主题的原型设计
-
-![My Jekyll themes](http://on2171g4d.bkt.clouddn.com/jekyll-theme-vs.jpg)
+![My Jekyll themes](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/all.png)
 
 比之前漂亮不少吧，下面聊聊H2O的新特性。
 
