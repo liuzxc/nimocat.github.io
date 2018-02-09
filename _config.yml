@@ -40,7 +40,6 @@ reward:
   enable: true
   reward_comment: '大爷~赏俩钱？'
   wechatpay: 'https://github.com/nimocat/nimocat.github.io/blob/master/assets/icons/WechatIMG62.jpeg?raw=true'
-
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
 
