@@ -2,7 +2,7 @@
 墨水主题改版自[kaeyleo](https://github.com/kaeyleo/jekyll-theme-H2O)的主题。将原现代风主题处理为水墨风主题，故名墨水。改动：更改配色方案，涂鸦风格。在前人基础上优化评论、社交分享和移动端优化。
 
 实际效果
-[奇怪的小阁楼](blog.nintheavens.com)
+[奇怪的小阁楼](http://blog.nintheavens.com/)
 
 ## 墨水 Theme
 
